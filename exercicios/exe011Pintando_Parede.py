@@ -1,3 +1,6 @@
+
+
+
 larg = float(input('Quantos metros de largura têm a parede? '))
 alt = float(input('Quantos metros de altura têm a parede?'))
 
