@@ -3,7 +3,7 @@ termos = int(input('Quantos termos você quer mostar?'))
 t1 = 0
 t2 = 1
 cont = 3
-print('{} -> {}'.format(t1, t2), end=' ')
+print('{} -> {}'.format(t1, t2), end='')
 
 while cont <= termos:
     t3 = t1 + t2

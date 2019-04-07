@@ -11,6 +11,7 @@ palpite = int(input('Qual o seu palpite?'))
 tentativas = 0
 n = randint(0, 10)
 while palpite < n:
+
     print('Mais... Tente mais uma vez.')
     palpite = int(input('Qual o seu palpite?'))
     tentativas += 1

@@ -9,7 +9,7 @@ num = int(input('Digite um número para ver seu fatorial.'))
 print('O fatorial de {} é {}'.format(num, factorial()))
 '''
 # 2º REsolução:
-'''
+
 c = num
 f =1
 print('Calculando {}! = '.format(num), end='')
@@ -20,9 +20,9 @@ while c > 0:
    c -= 1
 print('{}'.format(f))
 
-'''
-# 3º Resolução:
 
+# 3º Resolução:
+'''
 f = 1
 for c in range(0, num):
 
@@ -30,6 +30,7 @@ for c in range(0, num):
    num -= 1
 
 print('{}'.format(f))
+print(len(str(f)))
 
 
-
+'''
