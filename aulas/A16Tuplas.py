@@ -1,5 +1,5 @@
 
-'''TUPLA - é uma variável composta que pode armazena vários valores,'''
+# tupla - é uma variável composta que pode armazena vários valores,
 
 #As tuplas são imutáveis.
 
@@ -37,4 +37,3 @@ print(c.index(4)) #Mostra em qual posição está o elemento 4.
 #Deslocamento
 print(c)
 print(c.index(5 , 2))#mostra qual a posição do 5 apartir da posição 2.
-
