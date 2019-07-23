@@ -1,3 +1,7 @@
+'''Crie um programa onde o usuárui possa digitar sete valores numéricos e cadastre-os em uma lista única
+ que mantenha separados os valores pares e ímpares. No final mostre os valores
+ pares e ímpares em ordem crescente'''
+
 
 list_numeros = [[], []] #Lista que vai receber as listas pares e impares.
 
