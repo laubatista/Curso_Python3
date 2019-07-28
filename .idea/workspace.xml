@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/exercicios/exe078Maior_e_menor_valor_lista.py" description="menor = 0&#10;" line="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7bbc27-8625-4306-966c-403e0467a242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/exe087Matriz_parteII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe088Jogo_MegaSena.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/A19Dicionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe090Dicionario_em_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe093Cadastro_de_jogador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe94Unindo_dicionarios_listas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exe084Listas_compostas_análise_de _dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exe084Listas_compostas_análise_de _dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exe085Listas_com_pares_impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exe085Listas_com_pares_impares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exe086Matriz_em_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exe086Matriz_em_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,19 +41,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -70,95 +53,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/exercicios/exe054Grupo_maioridade.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe055Maior_e_menor.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe056Analisador_completo.py" />
-        <option value="$PROJECT_DIR$/aulas/A14Repetições_While.py" />
-        <option value="$PROJECT_DIR$/aulas/A14Repetições_while.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe058Jogo_adivinhação_v2.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe060Progreção_aritimeticav2.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe059Menu_opções.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe051Progressao_aritimetica.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe061Progreção_aritimeticaV2.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe062Super _progressão_aritiméticaV3.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe064Tratando_varios_valores.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe065Maior_menor_valores.py" />
-        <option value="$PROJECT_DIR$/../CursoDjango/CursoDjango-proj/exemple.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe063Sequência_fibonacci.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe058Jogo_adivinhaçãoV2.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe053Detector_palindromo.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe060Cálculo_fatorial.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe066Varios_numeros_tags.py" />
-        <option value="$PROJECT_DIR$/aulas/A9manipulando_strings.py" />
-        <option value="$PROJECT_DIR$/exercicios/77.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe057Validação_dados.py" />
-        <option value="$PROJECT_DIR$/aulas/A15Interrompendo_laços.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe067Tabuada_v3.0.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe066Varios_numeros_com_flag.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe068Jogo_par_ou_impar.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe069Analise_dados_grupo.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe070Estatisticas_em_produtos.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe071Simulador_caixa_eletronico.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe072.py" />
-        <option value="$PROJECT_DIR$/aulas/A16Tuplas.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe072Numeros_por_extenso.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe073Tupla_times_futebol.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe074Maior_menor_valores.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe076Lista_de_precos.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe077Contando_vogais.py" />
-        <option value="$PROJECT_DIR$/aulas/A17Listas.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe075Analise_de_dados.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe078Maior_e_menor_valor_lista.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe079Valores_unicos_lista.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe080Lista_ordenada_sem_repeticao.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe081Extraindo_dados_lista.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe082Dividindo_valores_em_varias_listas.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe083Validando_expressões_matemáticas.py" />
-        <option value="$PROJECT_DIR$/aulas/A18Lista_parteII.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe084Listas_compostas_análise_de _dados.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe085Listas_com_pares_impares.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe086Matriz_em_python.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe087Matriz_parteII.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe088Jogo_MegaSena.py" />
-        <option value="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="690" />
-    <option name="y" value="24" />
-    <option name="width" value="1091" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1OWjhXAwPZZLAFoNL2kiJW6ICI2" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Curso_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_Python3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Curso_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -191,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe089Boletim_com_listasCompostas">
+  <component name="RunManager" selected="Python.exe095Aprimorando_dicionarios">
     <configuration name="exe060Cálculo_fatorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe085Listas_com_pares_impares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe091Jogo_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe085Listas_com_pares_impares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe091Jogo_de_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe086Matriz_em_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe092Cadastro_de_trabalhador" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe086Matriz_em_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe092Cadastro_de_trabalhador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe087Matriz_parteII" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe093Cadastro_de_jogador" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe087Matriz_parteII.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe093Cadastro_de_jogador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe088Jogo_MegaSena" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe095Aprimorando_dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,7 +208,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe088Jogo_MegaSena.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe095Aprimorando_dicionarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe089Boletim_com_listasCompostas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe94Unindo_dicionarios_listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe94Unindo_dicionarios_listas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +241,19 @@
     <list>
       <item itemvalue="Python.exe060Cálculo_fatorial" />
       <item itemvalue="Python.exe066" />
-      <item itemvalue="Python.exe085Listas_com_pares_impares" />
-      <item itemvalue="Python.exe086Matriz_em_python" />
-      <item itemvalue="Python.exe087Matriz_parteII" />
-      <item itemvalue="Python.exe088Jogo_MegaSena" />
-      <item itemvalue="Python.exe089Boletim_com_listasCompostas" />
+      <item itemvalue="Python.exe091Jogo_de_dados" />
+      <item itemvalue="Python.exe092Cadastro_de_trabalhador" />
+      <item itemvalue="Python.exe093Cadastro_de_jogador" />
+      <item itemvalue="Python.exe94Unindo_dicionarios_listas" />
+      <item itemvalue="Python.exe095Aprimorando_dicionarios" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exe089Boletim_com_listasCompostas" />
-        <item itemvalue="Python.exe088Jogo_MegaSena" />
-        <item itemvalue="Python.exe087Matriz_parteII" />
-        <item itemvalue="Python.exe086Matriz_em_python" />
-        <item itemvalue="Python.exe085Listas_com_pares_impares" />
+        <item itemvalue="Python.exe095Aprimorando_dicionarios" />
+        <item itemvalue="Python.exe94Unindo_dicionarios_listas" />
+        <item itemvalue="Python.exe093Cadastro_de_jogador" />
+        <item itemvalue="Python.exe092Cadastro_de_trabalhador" />
+        <item itemvalue="Python.exe091Jogo_de_dados" />
       </list>
     </recent_temporary>
   </component>
@@ -400,62 +297,21 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="690" y="24" width="1091" height="744" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Structure" order="0" sideWeight="0.5059952" side_tool="true" weight="0.33925232" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4940048" weight="0.2977528" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4940476" visible="true" weight="0.3525741" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3153961" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31240657" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50677294" side_tool="true" weight="0.39013454" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.5669014" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32908365" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49586776" weight="0.27091634" />
-      <window_info id="Structure" order="1" sideWeight="0.5041322" side_tool="true" weight="0.27091634" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4940476" visible="true" weight="0.40209267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50677294" side_tool="true" weight="0.39013454" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.5669014" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32908365" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" weight="0.32980332" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python3$exe074Maior_menor_valores.coverage" NAME="exe074Maior_menor_valores Coverage Results" MODIFIED="1560562604272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios" />
@@ -469,303 +325,6 @@
     <SUITE FILE_PATH="coverage/Curso_Python3$exe076Lista_de_precos.coverage" NAME="exe076Lista_de_precos Coverage Results" MODIFIED="1560564469932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios" />
     <SUITE FILE_PATH="coverage/Curso_Python3$exe072.coverage" NAME="exe072 Coverage Results" MODIFIED="1560301882877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios" />
     <SUITE FILE_PATH="coverage/Curso_Python3$exe068Jogo_par_ou_impar.coverage" NAME="exe068Jogo_par_ou_impar Coverage Results" MODIFIED="1560554879573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercicios/exe062Super _progressão_aritiméticaV3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe065Maior_menor_valores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe071Simulador_caixa_eletronico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A14Repetiçoes_while.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe064Tratando_varios_valores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe073Tupla_times_futebol.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe074Maior_menor_valores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A11Cores_no_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A09Manipulando_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A18Listas2.py" />
-    <entry file="file://$PROJECT_DIR$/aulas/A10Estrutura_condicional.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A12Estruturas_controle.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A15Interrompendo_laços.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A16Tuplas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe033Maior_MenorValor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe055Maior_e_menor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe070Estatisticas_em_produtos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe075Analise_de_dados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe067Tabuada_v3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe076Lista_de_precos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe082Dividindo_valores_em_varias_listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe081Extraindo_dados_lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe078Maior_e_menor_valor_lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe077Contando_vogais.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe080Lista_ordenada_sem_repeticao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe068Jogo_par_ou_impar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe069Analise_dados_grupo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe058Jogo_adivinhaçãoV2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe083Validando_expressões_matemáticas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A18Lista_parteII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/A17Listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="37" column="51" lean-forward="true" selection-start-line="36" selection-end-line="37" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe012Calculando_Descontos.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe044Gerenciador _Pagamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe043Calculando_IMC.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe042Tipos_Triângulos.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe032Ano_Bissexto.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe030Par_ou_Impar.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe029Radar_Eletrônico.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe028Jogo_Advinhacao.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe015Aluguel_Carros.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe014Conversor_Temperatura.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe013Reajuste_Salarial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe079Valores_unicos_lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="53" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2019.1/system/python_stubs/-1247971763/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="482" column="12" selection-start-line="482" selection-start-column="12" selection-end-line="482" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe072Numeros_por_extenso.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe084Listas_compostas_análise_de _dados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe085Listas_com_pares_impares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe086Matriz_em_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="24" selection-end-line="33" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe087Matriz_parteII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="50" lean-forward="true" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe088Jogo_MegaSena.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
