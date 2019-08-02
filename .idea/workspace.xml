@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac7bbc27-8625-4306-966c-403e0467a242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/A20Funcoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe096Funcao_calcula_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe097Um_print_especial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe098.Funcao_contaor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe099Funcao_descobre_maiorvalor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe100Funcao_sortear_somar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/exe098.Funcao_contaor.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe098.Funcao_contaor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe098.Funcao_contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
