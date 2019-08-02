@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac7bbc27-8625-4306-966c-403e0467a242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/A19Dicionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe090Dicionario_em_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe093Cadastro_de_jogador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exe94Unindo_dicionarios_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/A20Funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe096Funcao_calcula_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe097Um_print_especial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe098.Funcao_contaor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe099Funcao_descobre_maiorvalor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exe100Funcao_sortear_somar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exe089Boletim_com_listasCompostas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe095Aprimorando_dicionarios">
+  <component name="RunManager" selected="Python.exe100">
     <configuration name="exe060Cálculo_fatorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe091Jogo_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe096" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe091Jogo_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe096Funcao_calcula_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe092Cadastro_de_trabalhador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe097" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe092Cadastro_de_trabalhador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe097Um_print_especial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe093Cadastro_de_jogador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe098" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe093Cadastro_de_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe098.Funcao_contaor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe095Aprimorando_dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe099" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe095Aprimorando_dicionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe099Funcao_descobre_maiorvalor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe94Unindo_dicionarios_listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe94Unindo_dicionarios_listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exe100Funcao_sortear_somar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,19 +242,19 @@
     <list>
       <item itemvalue="Python.exe060Cálculo_fatorial" />
       <item itemvalue="Python.exe066" />
-      <item itemvalue="Python.exe091Jogo_de_dados" />
-      <item itemvalue="Python.exe092Cadastro_de_trabalhador" />
-      <item itemvalue="Python.exe093Cadastro_de_jogador" />
-      <item itemvalue="Python.exe94Unindo_dicionarios_listas" />
-      <item itemvalue="Python.exe095Aprimorando_dicionarios" />
+      <item itemvalue="Python.exe096" />
+      <item itemvalue="Python.exe097" />
+      <item itemvalue="Python.exe098" />
+      <item itemvalue="Python.exe099" />
+      <item itemvalue="Python.exe100" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exe095Aprimorando_dicionarios" />
-        <item itemvalue="Python.exe94Unindo_dicionarios_listas" />
-        <item itemvalue="Python.exe093Cadastro_de_jogador" />
-        <item itemvalue="Python.exe092Cadastro_de_trabalhador" />
-        <item itemvalue="Python.exe091Jogo_de_dados" />
+        <item itemvalue="Python.exe100" />
+        <item itemvalue="Python.exe099" />
+        <item itemvalue="Python.exe098" />
+        <item itemvalue="Python.exe097" />
+        <item itemvalue="Python.exe096" />
       </list>
     </recent_temporary>
   </component>
